@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: sunting-bab-buku
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  bab-literasi-perbaikan.md mempertahankan isi, urutan paragraf, tabel, sitasi (Gilster 1997, Hobbs 2010, Ribble 2015, Sari dkk. 2022), dan angka (12, 68%, dua jam). Kalke dibuang: tabel, gambar, kajian, dan rubrik tidak lagi menjadi pelaku verba tindakan manusia; "Sebagian lain" dan "Ada pula yang" diganti pelaku yang jelas; "membangun kedekatan/kepercayaan", "memainkan peran", "menggeser perhatian", "membuka lapisan" diganti ungkapan lazim; serapan holistik, komprehensif, implementasi, signifikan diganti padanan. Paragraf pembuka dan paragraf kegiatan kelas diberi perangkai sehingga tidak lagi berupa deret kalimat lepas. Kalimat penulis tetap dikenali, bukan ditulis ulang.

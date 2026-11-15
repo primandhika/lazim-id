@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: serapan-dan-istilah
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  pendahuluan-perbaikan.md mengganti serapan yang punya padanan lazim (fundamental, paradigma, holistik, mengintegrasikan, eksplisit, berkontribusi, implementasi, kontribusi, spesifik, perspektif, alternatif, mengoptimalkan, komprehensif) dan membetulkan pelaku benda mati ('Survei ... menunjukkan', 'Artikel ini menawarkan', 'Metakognisi memungkinkan'). Istilah tanpa padanan setara tetap: metakognisi, metakognitif, efikasi diri, kompetensi. 'Signifikan secara statistik (p < 0,05)' tetap karena berarti statistik. Angka 214, 31%, p < 0,05 dan sitasi Goh dan Liu 2023, Bandura 1977, Paterson 2022 tidak berubah.

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: satu-kalimat-ditunjuk
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  Bukan hanya kalimat yang ditunjuk yang diperbaiki. Semua kalimat berpola sama di modul ikut diperbaiki: 'Latihan ini mengajak', 'Foto 2 Latihan di depan cermin memperlihatkan', 'Tabel 3 menyajikan', 'Rubrik ini membantu', 'Rekaman latihan menawarkan'. Kalimat dengan verba yang lazim untuk benda dibiarkan: 'Pembukaan menentukan', 'Situasi ini menuntut', 'Rubrik penilaian memuat'. Isi tabel dan angka tidak berubah. Dua contoh kalimat yang sudah lazim tetap utuh, sedangkan 'membeku' (kalke dari 'froze') pada contoh ketiga diganti 'terdiam' atau 'mematung', karena contoh buatan modul ikut disisir. Jawaban menyebut bahwa pola yang sama juga diperbaiki di tempat lain.
